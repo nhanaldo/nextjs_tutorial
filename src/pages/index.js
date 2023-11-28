@@ -28,7 +28,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <div>Tai khoan</div>
+        
+        {/* <div>Tai khoan</div>
         <input name="username" onChange={eventValueOnchang} />
         <div>Mat Khau</div>
         <input name="password" onChange={eventValueOnchang} />
@@ -39,7 +40,23 @@ export default function Home() {
           }}
         >
           nut
+        </div> */}
+
+
+
+
+        {/* <div className="bg-green-400">
+
+              <div className="bg-red-500 mx-auto max-w-5xl w-full">Header</div>
+
         </div>
+        <div className="bg-green-400">
+
+            <div className="bg-red-500 mx-auto max-w-5xl w-full">Body</div>
+
+        </div> */}
+
+        <b>Yêu Em </b>
       </main>
     </>
   )
