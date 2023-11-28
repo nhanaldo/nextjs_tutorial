@@ -45,7 +45,7 @@ export default function Home() {
 
 
 
-        {/* <div className="bg-green-400">
+        <div className="bg-green-400">
 
               <div className="bg-red-500 mx-auto max-w-5xl w-full">Header</div>
 
@@ -54,9 +54,8 @@ export default function Home() {
 
             <div className="bg-red-500 mx-auto max-w-5xl w-full">Body</div>
 
-        </div> */}
+        </div>
 
-        <b>Yêu Em </b>
       </main>
     </>
   )
