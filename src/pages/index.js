@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <p className={styles.text}>123</p>        
+        <p className={styles.text}>1273</p>        
       </main>
     </>
   )
